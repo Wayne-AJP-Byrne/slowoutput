@@ -6,7 +6,7 @@ It can take 1 parameter which is milliseconds
 (NOTE: make sure you make the file executable with chmod +x slowoutput.py)
 Usage example:
 
-ls -laR | slowoutput 0.01
+ls -laR | slowoutput.py 0.01
 
 If no parameter is set deafult value is 0.05
 
