@@ -1,5 +1,5 @@
 # slowoutput
-Slows down stdout to emulate OLD terminal output (think baudrate)
+A very simple program which slows down stdout to emulate OLD terminal output (think baudrate)
 A really simple python program to output stdout 
 It can take 1 parameter which is milliseconds
 
