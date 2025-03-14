@@ -4,7 +4,7 @@ A very simple program which slows down stdout to emulate OLD terminal output (th
 It can take 1 parameter which is milliseconds
 
 (NOTE: make sure you make the file executable with chmod +x slowoutput.py)
-Usage example:
+\n Usage example:
 
 ls -laR | slowoutput.py 0.01
 
