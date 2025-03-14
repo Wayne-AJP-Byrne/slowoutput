@@ -8,7 +8,7 @@ Usage example:
 
 ls -laR | slowoutput.py 0.01
 
-If no parameter is set deafult value is 0.05
+If no parameter is set default value is 0.05
 
 (Written in Python 3, and this is my test as i'm new to github)
 
