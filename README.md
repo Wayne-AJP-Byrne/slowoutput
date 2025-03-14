@@ -10,7 +10,7 @@ ls -laR | slowoutput.py 0.01
 
 If no parameter is set deafult value is 0.05
 
-(Wriiten in Python 3, and this is my test as i'm new to github)
+(Written in Python 3, and this is my test as i'm new to github)
 
 Regards
 
